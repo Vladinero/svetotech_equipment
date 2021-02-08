@@ -1,1 +1,1 @@
-# svetotech_equipment
+# svetotech-equipment
